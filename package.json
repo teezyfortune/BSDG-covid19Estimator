@@ -5,8 +5,10 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "lint": "eslint ./src/"
+    "lint": "eslint ./src/",
+    "test": "jest"
   },
+  
   "dependencies": {
     "on-covid-19": "^0.1.3"
   },
